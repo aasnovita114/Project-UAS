@@ -24,7 +24,10 @@ https://drive.google.com/file/d/1IInLS_K0lWz2F9FJC2tEsk_BbKKjrsMD/view?usp=share
 ### Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
 
 
-Berikut link repository github :
+Berikut link youtube :
+
+https://youtu.be/Sgp3i7TLR4c
+
 
 
 
