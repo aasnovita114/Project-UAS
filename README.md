@@ -26,6 +26,6 @@ https://drive.google.com/file/d/1IInLS_K0lWz2F9FJC2tEsk_BbKKjrsMD/view?usp=share
 
 Berikut link repository github :
 
-https://github.com/syifaaurellia/ProjectUAS.git
+
 
 Sekian, Terima Kasih
