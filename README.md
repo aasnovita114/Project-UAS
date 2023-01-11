@@ -18,6 +18,7 @@ Cara Menjalankan Program :
 2. Setelah itu buka di text editor dan jalankan melalui terminal dengan mengetik python main.py
 
 ### Untuk penjelasan program berupa pdf silahkan kunjungi link berikut :
+https://drive.google.com/file/d/1IInLS_K0lWz2F9FJC2tEsk_BbKKjrsMD/view?usp=share_link
 
 
 ### Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
